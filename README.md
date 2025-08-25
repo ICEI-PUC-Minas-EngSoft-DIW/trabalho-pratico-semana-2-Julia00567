@@ -1,8 +1,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Júlia Santos Araújo
+- Matricula: 897866
 
 ## Print da tela da página criada (Curriculum Vitae)
 
